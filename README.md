@@ -24,7 +24,3 @@ This is a Google Drive clone website that has been created using HTML and CSS. I
 ## Screenshots
 
 ![Screenshot](Screenshot_1.png)
-
-## Feedback
-
-If you have any feedback, please reach out to me at ankurkarmakardonno.1@gmail.com.
